@@ -31,7 +31,7 @@ li {
 .navbar__list {
     display: flex;
     justify-content: space-between;
-    background-color: rgb(44, 206, 106);
+
     padding: 15px 15px;
     margin-bottom: 15px;
     border: solid 2px rgb(28, 133, 68);
@@ -94,7 +94,7 @@ li {
     padding-bottom: 50px;
     border-radius: 25px;
 }
-.repositories__wrapper {
+.repositories__text {
     color: aliceblue;
     text-align: center;
     width: 100%;
@@ -111,10 +111,27 @@ li {
     border-radius: 25px;
 }
 
+.repositories__title {
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    max-width: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(80, 180, 85);
+    padding: 15px 5px;
+    border: solid 2px rgb(61, 136, 64);
+    border-radius: 25px;
+}
+
 
 .architecture {
-    background-color: rgb(26, 148, 53);
-    border: solid 2px rgb(21, 110, 40);
+    background-color: rgb(59, 129, 74);
+    border: solid 2px rgb(46, 95, 57);
     padding-bottom: 50px;
     border-radius: 25px;
 }
@@ -130,9 +147,9 @@ li {
     align-items: center;
     margin: 0 auto;
     margin-top: 50px;
-    background-color: rgb(80, 180, 85);
+    background-color: rgb(113, 156, 116);
     padding: 30px 250px;
-    border: solid 2px rgb(61, 136, 64);
+    border: solid 2px rgb(79, 109, 80);
     border-radius: 25px;
 }
 
