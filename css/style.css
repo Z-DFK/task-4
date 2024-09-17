@@ -35,6 +35,7 @@ li {
     padding: 15px 15px;
     margin-bottom: 15px;
     border: solid 2px rgb(28, 133, 68);
+    border-radius: 15px;
 }
 
 .navbar__listLink {
@@ -45,6 +46,7 @@ li {
     background-color: rgb(26, 148, 53);
     border: solid 2px rgb(21, 110, 40);
     padding-bottom: 50px;
+    border-radius: 25px;
 }
 .tegs__wrapper {
     color: aliceblue;
@@ -60,12 +62,14 @@ li {
     background-color: rgb(80, 180, 85);
     padding: 30px 250px;
     border: solid 2px rgb(61, 136, 64);
+    border-radius: 25px;
 }
 
 .functions__container {
     background-color: rgb(26, 148, 53);
     border: solid 2px rgb(21, 110, 40);
     padding-bottom: 50px;
+    border-radius: 25px;
 }
 .functions__wrapper {
     color: aliceblue;
@@ -81,12 +85,14 @@ li {
     background-color: rgb(80, 180, 85);
     padding: 30px 250px;
     border: solid 2px rgb(61, 136, 64);
+    border-radius: 25px;
 }
 
 .repositories__container {
     background-color: rgb(26, 148, 53);
     border: solid 2px rgb(21, 110, 40);
     padding-bottom: 50px;
+    border-radius: 25px;
 }
 .repositories__wrapper {
     color: aliceblue;
@@ -102,6 +108,7 @@ li {
     background-color: rgb(80, 180, 85);
     padding: 30px 250px;
     border: solid 2px rgb(61, 136, 64);
+    border-radius: 25px;
 }
 
 
@@ -109,6 +116,7 @@ li {
     background-color: rgb(26, 148, 53);
     border: solid 2px rgb(21, 110, 40);
     padding-bottom: 50px;
+    border-radius: 25px;
 }
 
 .architecture__wrapper {
@@ -125,6 +133,7 @@ li {
     background-color: rgb(80, 180, 85);
     padding: 30px 250px;
     border: solid 2px rgb(61, 136, 64);
+    border-radius: 25px;
 }
 
 .footer__title{
