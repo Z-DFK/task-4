@@ -1,5 +1,5 @@
 body {
-    background-color: #17a31e;
+    background-color: #c5c5c5;
     font-family: "Oswald", sans-serif;
 }
 
@@ -65,9 +65,32 @@ li {
     border-radius: 25px;
 }
 
+.creation__container {
+    background-color: rgb(148, 119, 26);
+    border: solid 2px rgb(110, 89, 21);
+    padding-bottom: 50px;
+    border-radius: 25px;
+}
+.creation__wrapper {
+    color: aliceblue;
+    max-width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(180, 170, 80);
+    padding: 30px 150px;
+    border: solid 2px rgb(136, 118, 61);
+    border-radius: 25px;
+}
+.creation__title {
+    width: 1350px;
+    margin-left: 350px;
+}
+
 .functions__container {
-    background-color: rgb(26, 148, 53);
-    border: solid 2px rgb(21, 110, 40);
+    background-color: rgb(26, 113, 148);
+    border: solid 2px rgb(21, 82, 110);
     padding-bottom: 50px;
     border-radius: 25px;
 }
@@ -80,14 +103,18 @@ li {
     margin-left: 15px;
     display: flex;
     justify-content: space-between;
-    background-color: rgb(80, 180, 85);
+    background-color: rgb(80, 168, 180);
     padding: 30px 250px;
-    border: solid 2px rgb(61, 136, 64);
+    border: solid 2px rgb(61, 112, 136);
     border-radius: 25px;
     padding-left: 10px;
 }
 .functions__text {
-    margin-right: 15px;
+    margin-left: 150px;
+}
+.functions__title {
+    width: 1350px;
+    margin-left: 150px;
 }
 
 .repositories__container {
